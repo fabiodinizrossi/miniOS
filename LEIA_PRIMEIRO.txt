@@ -1,0 +1,4 @@
+Comece por README.md.
+Todos os codigos estao em src/ e nos demais arquivos do projeto.
+CODIGOS_COMPLETOS.md reune os arquivos para leitura.
+Consulte VALIDACAO.md para os testes realizados e as verificacoes pendentes.
